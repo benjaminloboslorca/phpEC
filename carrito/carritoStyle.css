@@ -1,0 +1,41 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+th {
+    background-color: #f2f2f2;
+}
+/* styleAdmin.css */
+
+body {
+    font: 14px sans-serif;
+}
+
+.wrapper {
+    width: 800px;
+    padding: 20px;
+    margin: auto;
+}
+
+.options ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.options ul li {
+    margin: 10px 0;
+}
+
+.options ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.options ul li a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,41 @@
+/* contadorStyle.css */
+
+body {
+    font: 14px sans-serif;
+}
+
+.contador-wrapper {
+    width: 800px;
+    padding: 20px;
+    margin: auto;
+}
+
+.finanzas, .transacciones {
+    margin-bottom: 20px;
+}
+
+.finanzas p, .transacciones table {
+    margin: 10px 0;
+}
+
+.transacciones table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.transacciones table, .transacciones th, .transacciones td {
+    border: 1px solid #ddd;
+}
+
+.transacciones th, .transacciones td {
+    padding: 10px;
+    text-align: left;
+}
+
+.transacciones th {
+    background-color: #f4f4f4;
+}
+
+.transacciones td {
+    text-align: right;
+}

@@ -1,0 +1,30 @@
+/* styleVendedor.css */
+
+body {
+    font: 14px sans-serif;
+}
+
+.vendedor-wrapper {
+    width: 800px;
+    padding: 20px;
+    margin: auto;
+}
+
+.vendedor-options ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.vendedor-options ul li {
+    margin: 10px 0;
+}
+
+.vendedor-options ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.vendedor-options ul li a:hover {
+    text-decoration: underline;
+}
